@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ASSUMPTIONS
 ===========
 
@@ -18,3 +19,9 @@ OUTPUT
 
 * By running the run_analysis.R , a tidydata.txt file is created in the working directory
 * tidydata.txt file contains a  Wide Tidy Data Set of 79 Measurements Aggregated over Subjects and Activity [ detailed in the CodeBook.md]
+=======
+CleaningGetting
+===============
+
+cleaing and getting data repo
+>>>>>>> 8ad3b48445fb0e8a6d395dce03bc827a95306be5
